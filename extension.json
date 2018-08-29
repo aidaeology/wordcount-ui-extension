@@ -1,0 +1,6 @@
+{
+  "id": "wordcount",
+  "name": "Word counter for a text field",
+  "srcdoc": "index.html",
+  "fieldTypes": ["Symbol", "Text"]
+}
